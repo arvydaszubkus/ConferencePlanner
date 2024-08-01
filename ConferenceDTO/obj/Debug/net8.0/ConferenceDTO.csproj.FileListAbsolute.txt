@@ -1,0 +1,11 @@
+/Users/arvydaszubkus/ConferencePlanner/ConferenceDTO/bin/Debug/net8.0/ConferenceDTO.deps.json
+/Users/arvydaszubkus/ConferencePlanner/ConferenceDTO/bin/Debug/net8.0/ConferenceDTO.dll
+/Users/arvydaszubkus/ConferencePlanner/ConferenceDTO/bin/Debug/net8.0/ConferenceDTO.pdb
+/Users/arvydaszubkus/ConferencePlanner/ConferenceDTO/obj/Debug/net8.0/ConferenceDTO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arvydaszubkus/ConferencePlanner/ConferenceDTO/obj/Debug/net8.0/ConferenceDTO.AssemblyInfoInputs.cache
+/Users/arvydaszubkus/ConferencePlanner/ConferenceDTO/obj/Debug/net8.0/ConferenceDTO.AssemblyInfo.cs
+/Users/arvydaszubkus/ConferencePlanner/ConferenceDTO/obj/Debug/net8.0/ConferenceDTO.csproj.CoreCompileInputs.cache
+/Users/arvydaszubkus/ConferencePlanner/ConferenceDTO/obj/Debug/net8.0/ConferenceDTO.dll
+/Users/arvydaszubkus/ConferencePlanner/ConferenceDTO/obj/Debug/net8.0/refint/ConferenceDTO.dll
+/Users/arvydaszubkus/ConferencePlanner/ConferenceDTO/obj/Debug/net8.0/ConferenceDTO.pdb
+/Users/arvydaszubkus/ConferencePlanner/ConferenceDTO/obj/Debug/net8.0/ref/ConferenceDTO.dll
