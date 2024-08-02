@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConferenceDTO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16549261173edbe696fb699614cad9f1d0e3980a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConferenceDTO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConferenceDTO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

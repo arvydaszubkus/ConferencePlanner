@@ -9,3 +9,4 @@
 /Users/arvydaszubkus/ConferencePlanner/ConferenceDTO/obj/Debug/net8.0/refint/ConferenceDTO.dll
 /Users/arvydaszubkus/ConferencePlanner/ConferenceDTO/obj/Debug/net8.0/ConferenceDTO.pdb
 /Users/arvydaszubkus/ConferencePlanner/ConferenceDTO/obj/Debug/net8.0/ref/ConferenceDTO.dll
+/Users/arvydaszubkus/ConferencePlanner/ConferenceDTO/obj/Debug/net8.0/ConferenceDTO.sourcelink.json
